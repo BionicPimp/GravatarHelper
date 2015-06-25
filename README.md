@@ -1,12 +1,12 @@
 # GravatarHelper
 [Gravatars](https://en.gravatar.com/) are globally recognized avatar images that follow you from site to site when you post or comment on blogs, or from within your applications.
 
-GravatarHelper is a CakePHP 3.x Helper class for integrating Gravatar profile images in your applications. This helper enables you to generate gravatar profile images in the same manner as you would create an image using the HTML Helper from within your view templates.
+GravatarHelper is a CakePHP 3.x Helper class that enables you to generate gravatar profile images from within your view templates in the same manner as you would create an image using the HTML Helper.
 
 
 #### Installation ####
 
-At the file into your application at `/src/View/Helper/GravatarHelper.php`
+Add the helper class into your application at `/src/View/Helper/GravatarHelper.php`
 
 Enable the Helper by declaring it in the AppView model located at `/src/View/AppView.php`.
 
